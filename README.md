@@ -1,7 +1,7 @@
 # scrcpy-simplified-
 Makes scrcpy work with wireless debugging(only) and is easier to use
 
-All Credit Goes To : Genymobile And @Rom1v
+All Credit Goes To : Genymobile And @Rom1v For Making Scrcpy
 
 # Instructions
 
