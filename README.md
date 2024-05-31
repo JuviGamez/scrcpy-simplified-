@@ -23,7 +23,7 @@ Step 5 : Right Click On "scrcpysimplifiedpublic.bat" Then Click Edit, A Notepad 
 Step 6 : Find The Term "Define The IP Address Set Ip :XXXXXXXXXX" In Notepad And Find You Phone's IP Address And Type It There
       ![screencopy4github](https://github.com/JuviGamez/scrcpy-simplified-/assets/89625667/64cd9030-fc8e-4b7c-be60-241ad201d1cf)
 
-Step 7 : Go To Developer Settings On Your Android Phone And Go To Wireless Debugging And Turn On USB Debugging(security options), then make sure your'e connected with the same network between Your PC And Phone(btw sry no screenshot's you'll have to figure it out)
+Step 7 : Go To Developer Settings On Your Android Phone And Turn On Wireless Debugging As Well As USB Debugging(security options) to use your mouse and keyboard to interact with your phone, then make sure you're connected with the same network between Your PC And Phone(btw sry no screenshot's you'll have to figure it out)
 
 Step 8 (Final) : Save The Bat File And Run It And Enter Your Phones Port 
       ![screencopy5github](https://github.com/JuviGamez/scrcpy-simplified-/assets/89625667/b3d8cd0d-efa5-47b5-b870-d3dd72076d2d)
